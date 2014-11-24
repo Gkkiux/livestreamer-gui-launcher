@@ -23,11 +23,6 @@ namespace LivestreamerLauncher
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void launch()
         {
             if (String.IsNullOrEmpty(livestreamerDir))
