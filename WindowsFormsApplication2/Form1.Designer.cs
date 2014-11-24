@@ -92,14 +92,14 @@
             this.qualityButtons.AutoSize = true;
             this.qualityButtons.ColumnCount = 1;
             this.qualityButtons.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
-            this.qualityButtons.Location = new System.Drawing.Point(-1, 49);
+            this.qualityButtons.Location = new System.Drawing.Point(1, 49);
             this.qualityButtons.Margin = new System.Windows.Forms.Padding(0);
-            this.qualityButtons.MaximumSize = new System.Drawing.Size(548, 50);
+            this.qualityButtons.MaximumSize = new System.Drawing.Size(544, 50);
             this.qualityButtons.Name = "qualityButtons";
-            this.qualityButtons.Padding = new System.Windows.Forms.Padding(3);
+            this.qualityButtons.Padding = new System.Windows.Forms.Padding(10, 3, 3, 3);
             this.qualityButtons.RowCount = 1;
             this.qualityButtons.RowStyles.Add(new System.Windows.Forms.RowStyle());
-            this.qualityButtons.Size = new System.Drawing.Size(548, 47);
+            this.qualityButtons.Size = new System.Drawing.Size(544, 50);
             this.qualityButtons.TabIndex = 8;
             // 
             // Form1
